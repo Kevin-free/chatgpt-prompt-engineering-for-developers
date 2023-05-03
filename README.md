@@ -40,17 +40,7 @@ LLM 正在逐步改变人们的生活，而对于开发者，如何基于 LLM �
 
 ## 内容大纲
 
-**目录：**
-
-1. Introduction 引言
-2. Guidelines 指南
-3. Iterative 迭代
-4. Summarizing 摘要
-5. Inferring 推理
-6. Transforming 转换
-7. Expanding 扩展
-8. Chatbot 聊天机器人
-9. Conclusion 总结
+![xmind](https://img.ifree258.top/16-XMDM/161-WDXM/chatgpt-prompt-engineering-for-developers/Prompt%20Engineering%20Xmind.png)
 
 ## 致谢
 
@@ -69,7 +59,7 @@ LLM 正在逐步改变人们的生活，而对于开发者，如何基于 LLM �
 <div align=center>
 <p>扫描下方二维码关注公众号：Kevin的学堂</p>
 
-![banner](https://img.ifree258.top/16-XMDM/161-WDXM/chatgpt-prompt-engineering-for-developers/wesub-qrcode.png)
+![qrcode](https://img.ifree258.top/16-XMDM/161-WDXM/chatgpt-prompt-engineering-for-developers/wesub-qrcode.png)
 
 </div>
 &emsp;&emsp;Kevin的学堂，专注于数据结构和算法，后端开发，ChatGPT&AI相关知识的分享。同时也会分享工作和生活的经验，欢迎关注～ 和 Kevin 一起学习，一起更优秀！
