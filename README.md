@@ -40,7 +40,7 @@ LLM 正在逐步改变人们的生活，而对于开发者，如何基于 LLM �
 
 ## 内容大纲
 
-![xmind](https://img.ifree258.top/16-XMDM/161-WDXM/chatgpt-prompt-engineering-for-developers/Prompt%20Engineering%20Xmind.png)
+![xmind](https://img.ifree258.top/16-XMDM/161-WDXM/chatgpt-prompt-engineering-for-developers/Prompt-Engineering-Xmind-min.png)
 
 ## 致谢
 
